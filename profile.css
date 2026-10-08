@@ -1,0 +1,81 @@
+.container {
+    width: 100%;
+    height: 70vh;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+
+.text {
+    width: 600px;
+    height: 400px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    color: rgb(33, 88, 240);
+    font-size: 25px;
+    border-left: 10px solid;
+    border-radius: 20px;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    background-image: url(./img/istockphoto-1162167657-612x612.jpg);
+    background-size: 100% 30%;
+    background-repeat: no-repeat;
+    background-position: top;
+    color: cadetblue;
+    display: flex;
+    /* flex-direction: column; */
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+/* child > */
+/* decendent " " both are same */
+.card>img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+/* group  , */
+.card>h1,
+h3 {
+    font-style: italic;
+}
+
+.btn{
+    display: flex;
+    gap: 30px;
+}
+.btn>button{
+    padding: 10px 30px;
+    background-color: rgb(87, 87, 247);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.lcs{
+    display: flex;
+    gap:20px;
+    font-size: 20px;
+}
+
+.Plogo{
+     display: flex;  
+    gap: 10px;
+    font-size: 30px;  
+}

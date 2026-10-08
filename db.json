@@ -1,0 +1,313 @@
+{
+    "womens": [
+        {
+            "id": 1,
+            "name": "Women's Leather Jacket",
+            "price": 129.99,
+            "des": 12.00,
+            "ratings": "4.7",
+            "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwwwUfMtzgIsq9oDxTCK4xo3OON919_O9IqQGX0igcKgVr1ibIUzuZDF51JkFLGEafay9D9zDIXE4LSzlsKsYtqEaRgjr4Kb8dthsOGb-357YGqYT_RhHa"
+        },
+        {
+            "id": 2,
+            "name": "Women's Running Shoes",
+            "price": 75.00,
+            "des": 10.00,
+            "ratings": "4.5",
+            "url": "https://www.tracerindia.com/cdn/shop/files/11_98375f30-2906-4e46-b9c5-2bb0e10e0b4a.jpg?v=1688548031"
+        },
+        {
+            "id": 3,
+            "name": "Women's Sunglasses",
+            "price": 54.99,
+            "des": 8.00,
+            "ratings": "4.3",
+            "url": "https://m.media-amazon.com/images/I/41AgT8f5DVL._AC_UY1100_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Women's Smart Watch",
+            "price": 249.99,
+            "des": 20.00,
+            "ratings": "4.8",
+            "url": "https://m.media-amazon.com/images/I/313oLK-s80L.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Women's Handbag",
+            "price": 95.00,
+            "des": 10.00,
+            "ratings": "4.6",
+            "url": "https://images-cdn.ubuy.co.in/634e99c15e7a441c693ee1d5-fashion-handbag-luxury-handbags-women.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Women's Fitness Tracker",
+            "price": 89.99,
+            "des": 15.00,
+            "ratings": "4.4",
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUbpb6lMJquFbhRuscUMxn4RC7f3RQpRRvWWDK7MDpgGg6YF_RwsUETnWINVqMMbubJ2FC3_KRkmxWbXDp-zEpB-AfqNP_VVmPg2nG1BPa"
+        },
+        {
+            "id": 7,
+            "name": "Women's Winter Coat",
+            "price": 140.00,
+            "des": 18.00,
+            "ratings": "4.7",
+            "url": "https://m.media-amazon.com/images/I/31TyymGTKgL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Women's Perfume",
+            "price": 58.00,
+            "des": 9.00,
+            "ratings": "4.6",
+            "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2fmkT4JBq7QW6conKIyZaOJmuYUPFwccS-Q3RXvmQnK69-biJkzpMJi_ZgUEpSucusI40yTiRP72k6kW15nADCVJXxecINz-ww6xXDu6H4suQgkCs872j"
+        },
+        {
+            "id": 9,
+            "name": "Women's Yoga Pants",
+            "price": 48.00,
+            "des": 7.00,
+            "ratings": "4.8",
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTM7VCj1h4ge6YjzlYUDGwdbyLs8OR78REdM-BOgtVahJD09Z1Ew8v4NA4CSSAYkpBwVdOoTdspeEvjXz3LvRvASyNBk_XXBsy1tlaDri9gxtDVHSqTCAHk"
+        },
+        {
+            "id": 10,
+            "name": "Women's Boots",
+            "price": 110.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTczOtsABwLiQqjYONNv_44CjxJU7UdQUcTat5u1VlZ0KsyKs98f6xTFk5-HohlgSH3nqEfbtZklBXVYue4H0GdXjgDs_AIJ37gvrWh1WM_4etyw5nOkXXOTQ"
+        }
+    ],
+    "Mens": [
+        {
+            "id": 1,
+            "name": "Men's Leather Jacket",
+            "price": 149.99,
+            "des": 15.00,
+            "ratings": "4.8",
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRVgSx5I3_LNU22FuU1Thgw2Kc2D72t1F3QTJ0VjnvHzE1pPIUgTu8o9bE6JAO1_46eJtqlMt-HeXp5l3Cp7ElShYn6kwcFSVZ9CuE0EKwuAR6LjnOKza5FXQ"
+        },
+        {
+            "id": 2,
+            "name": "Men's Denim Jacket",
+            "price": 89.99,
+            "des": 12.50,
+            "ratings": "4.5",
+            "url": "https://images.meesho.com/images/products/235953961/irbyc_1200.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Men's Bomber Jacket",
+            "price": 109.99,
+            "des": 14.00,
+            "ratings": "4.6",
+            "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnMp5SarU2MkQTUHFHu3PCdeg5xg7JfkfaX0AedNvX8G5LApTmzOLa1lruoXSt2n0ReuueSFb2RWa3gpLOzJ6PrAOMICTyY_Q3vGjgIjmj"
+        },
+        {
+            "id": 4,
+            "name": "Men's Parka Coat",
+            "price": 199.99,
+            "des": 20.00,
+            "ratings": "4.9",
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVZfRqeKiSQZXGlJ07ETJw1-RN6IC2O6qbhi-RrFJa0z5J8NvD9wcAcK-88LfpAO2wn5Bjy2nM8Giyd-mmIy4WhELawq6BHPCyxNz0-COzk66bKYkVT4tM"
+        },
+        {
+            "id": 5,
+            "name": "Men's Varsity Jacket",
+            "price": 79.99,
+            "des": 11.00,
+            "ratings": "4.4",
+            "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkjcEJOcelS28K2BbUdR8kL8vlfEzUWeFwqbPL_tdMTQE9nAPjAFw8Nvpbqa9zmhtA7qGfCBQYqptOtFbcxIofq3m2tHLDRjYKiVM0_5YZ"
+        },
+        {
+            "id": 6,
+            "name": "Men's Casual T-shirt",
+            "price": 19.99,
+            "des": 6.00,
+            "ratings": "4.3",
+            "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtLtx8Tkp54UyIkWVwgmXSroGj9YHq0qSFtn1RWLEdKUL6iJIoLzE-a_m3_hiO2tmwZzcR8j12C7oHHVl73-HE7W768kp0kcs14L6u6JtZogzjMbHOmSmnSA"
+        },
+        {
+            "id": 7,
+            "name": "Men's Suit",
+            "price": 199.99,
+            "des": 13.00,
+            "ratings": "4.7",
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQh-dD9NbePEFbWjQ74DrLc8EUbD_88u4GmEWTD4V2XOTzGDC2tkidusidhQmC3H24VvD_QfxfxHleGVQxBUo3dEup801beMo28zsETg2w"
+        },
+        {
+            "id": 8,
+            "name": "Men's Sunglasses",
+            "price": 25.99,
+            "des": 7.50,
+            "ratings": "4.4",
+            "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxT__Q_6Fq425eN_iGIVjfuMpBCsL8rMdck1B_l2hdriCb7-Hwonwx7S-F85rN2NydF_WAmR3WmKwkHaPzsJO22MbpfU1YAqmIlClPXyrROs9kSFyrDFBEWA"
+        },
+        {
+            "id": 9,
+            "name": "Men's Sports Watch",
+            "price": 59.99,
+            "des": 9.00,
+            "ratings": "4.6",
+            "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFgLBdXTGj92Tbi4DA86Td0yXW8uJKoPjixmpz-1u1pfEkY0v4oS-VOXuzD8dum1p3rGusdWtgmGbeQoqRoqt8rCBLuxDVrZxUSj8v7kmYBeuxkw3nSKD2"
+        },
+        {
+            "id": 10,
+            "name": "Men's Sneakers",
+            "price": 89.99,
+            "des": 12.50,
+            "ratings": "4.8",
+            "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRFvfJOZQgoEuYcA0ed6PS7yodEboO23M7OspfwbZWU6F_YJllUOOD6P6nbz0Y9WnilD5ebvcu6kNAQ9Ydmn3R--7XyCewLE0Q9KKahWkHtv5po66_Ro8lgg"
+        }
+    ],
+    "Electronics": [
+        {
+            "id": "E001",
+            "name": "Laptop",
+            "price": 60000,
+            "ratings": 4.8,
+            "brand": "Dell",
+            "category": "Computers",
+            "image": "https://m.media-amazon.com/images/I/71DozMyPCBL.jpg"
+        },
+        {
+            "id": "E002",
+            "name": "Smartphone",
+            "price": 45000,
+            "ratings": 4.7,
+            "brand": "Samsung",
+            "category": "Mobiles",
+            "image": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=500,height=500,quality=75/product/samsung-galaxy-z-fold-6-5g-pink-256gb-12gb-ram-back-fold.png"
+        },
+        {
+            "id": "E003",
+            "name": "Tablet",
+            "price": 28000,
+            "ratings": 4.6,
+            "brand": "Apple",
+            "category": "Computers",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4G_BGFs-xH7xAUFkH6Y3a9roY7XNKmj5_g&s"
+        },
+        {
+            "id": "E004",
+            "name": "DSLR Camera",
+            "price": 55000,
+            "ratings": 4.8,
+            "brand": "Canon",
+            "category": "Photography",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE21ydVZjlwPNFTPytYNKisTBCSPCob5HM4Q&s"
+        },
+        {
+            "id": "E005",
+            "name": "Headphones",
+            "price": 8000,
+            "ratings": 4.6,
+            "brand": "Sony",
+            "category": "Audio",
+            "image": "data:image/jpeg;base64,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"
+        },
+        {
+            "id": "E006",
+            "name": "Smart TV",
+            "price": 55000,
+            "ratings": 4.7,
+            "brand": "Sony",
+            "category": "Entertainment",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYCFA4Ir5dDFGOBVeGjSpUv9R5JPkaGDMaQ&s"
+        },
+        {
+            "id": "E007",
+            "name": "Smartwatch",
+            "price": 20000,
+            "ratings": 4.6,
+            "brand": "Apple",
+            "category": "Wearable",
+            "image": "data:image/jpeg;base64,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"
+        }
+    ],
+    "grocery": [
+        {
+            "id": 10,
+            "name": "grosery",
+            "price": 110.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQu29kYzdAa3ukW2dNp-UcWHbe463qDGABA&s"
+        },
+        {
+            "id": 15,
+            "name": "cucumber",
+            "price": 150.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT19UUTLodCwKT1sEjgfdbWn8WLfiJ3D2d4Q&s"
+        },
+        {
+            "id": 5,
+            "name": "lemon",
+            "price": 10.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIe1pX6KfxkSxx4htp2vRrk0Q9XGFHzmyAQ&s"
+        },
+        {
+            "id": 40,
+            "name": "tomato",
+            "price": 30.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-6QVkNbO5SKS1InuN3riDYtExHP5G1y2qw&s"
+        },
+        {
+            "id": 6,
+            "name": "onion",
+            "price": 200.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcuW-RfQeYTbaAz_K8jbyjfaedVN0ai0M1Q&s"
+        },
+        {
+            "id": 9,
+            "name": "beans",
+            "price": 110.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs76TvT0FedPxhN0E3_QU3DeYee3vgvmFnJg&s"
+        },
+        {
+            "id": 8,
+            "name": "ginger",
+            "price": 70.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74GAVP8SOVqLfIzrkKZxrQcnIMe6Jq2t5rA&s"
+        },
+        {
+            "id": 9,
+            "name": "garlic",
+            "price": 50.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://m.economictimes.com/thumb/msid-95197805,width-1200,height-900,resizemode-4,imgsize-88136/garlic-canva-health-benefits.jpg"
+        },
+        {
+            "id": 10,
+            "name": "ladyfinger",
+            "price": 90.00,
+            "des": 14.00,
+            "ratings": "4.5",
+            "url": "https://kyssafarms.com/cdn/shop/products/lady-finger.jpg?v=1600955405"
+        },
+        {
+            "id": 15,
+            "name": "carrot",
+            "price": 200.00,
+            "des": 16.00,
+            "ratings": "4.5",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTba3FfUO6CI9cySnHdGt1roZY60bdUInxLXQ&s"
+        }
+    ]
+}
